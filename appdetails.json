@@ -18,6 +18,6 @@
   "free":[
     {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.69.227.162","active":"true","signal":"a"},
     {"id":1, "file":1, "city":"japan","country":"japan","image":"japan","ip":"34.69.227.162","active":"true","signal":"a"},
-    {"id":2, "file":2, "city":"Korea","country":"Korea","image":"Korea","ip":"34.69.227.162","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Korea","country":"Korea","image":"Korea","ip":"125.136.124.178","active":"true","signal":"a"},
   ]
 }
